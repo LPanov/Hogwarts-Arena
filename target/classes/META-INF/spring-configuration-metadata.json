@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "main.property.SpellsProperties",
+      "sourceType": "main.property.SpellsProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spells",
+      "type": "java.util.List<main.property.SpellsProperties$SpellDetails>",
+      "sourceType": "main.property.SpellsProperties"
+    }
+  ],
+  "hints": []
+}
